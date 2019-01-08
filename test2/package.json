@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vuepress-theme-meteorlxy": "^0.2.6"
+  }
+}
